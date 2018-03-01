@@ -4,13 +4,13 @@ Simple cleanup script to run that cleans your inbox based on a given query.
 
 ## Getting Started
 
-Go to script.google.com and copy this code in.
-Then open gmail and create the queries that work for finding everything you want to DELETE.
-Put those queries into the query array in the code.
-Adjust the date operation as needed. Note that it only appends a number and a letter to the query, so make sure you put your older_than or newer_than at the end.
-Run.
-...
-Profit.
+- Go to script.google.com and copy this code in.
+- Then open gmail and create the queries that work for finding everything you want to DELETE.
+- Put those queries into the query array in the code.
+- Adjust the date operation as needed. Note that it only appends a number and a letter to the query, so make sure you put your older_than or newer_than at the end.
+- Run.
+- ...
+- Profit.
 
 ### Prerequisites
 
@@ -19,7 +19,8 @@ Profit.
 
 ### Installing
 
-Copy-paste. Just look at the gs file.
+- Clone this git.
+- Copy-paste the gs file into a new project on script.google.com.
 
 ## Authors
 
@@ -27,4 +28,4 @@ Copy-paste. Just look at the gs file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
