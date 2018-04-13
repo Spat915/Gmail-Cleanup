@@ -28,4 +28,4 @@ Simple cleanup script to run that cleans your inbox based on a given query.
 
 ## License
 
-This project is licensed under the GPLv3 License - see the [LICENSE.md](Gmail-Cleanup/LICENCE.md) file for details
+This project is licensed under the GPLv3 License - see the [LICENSE.md](./LICENCE.md) file for details
